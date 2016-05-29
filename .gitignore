@@ -1,0 +1,17 @@
+*.class
+*.classpath
+*.project
+*.mymetadata
+.mtj.tmp/
+
+*.war
+*.ear
+
+/.settings/
+/target/
+/build/
+/data/
+/bin/
+/.myeclipse/
+
+hs_err_pid*
